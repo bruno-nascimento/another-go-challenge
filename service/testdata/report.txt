@@ -1,0 +1,268 @@
+[106;30m   # [0m[106;30m     ID [0m[106;30m FULL NAME                 [0m[106;30m AGE [0m[106;30m LIST OF TEAMS              [0m
+[107;30m   1 [0m[107;30m     93 [0m[107;30m David De Gea              [0m[107;30m 31  [0m[107;30m Manchester United          [0m
+[47;30m   2 [0m[47;30m     94 [0m[47;30m Koke                      [0m[47;30m 30  [0m[47;30m Spain                      [0m
+[107;30m   3 [0m[107;30m    144 [0m[107;30m Gerard Pique              [0m[107;30m 35  [0m[107;30m Barcelona                  [0m
+[47;30m   4 [0m[47;30m    148 [0m[47;30m Sergio Busquets           [0m[47;30m 34  [0m[47;30m Barcelona, Spain           [0m
+[107;30m   5 [0m[107;30m    173 [0m[107;30m Thomas Müller             [0m[107;30m 32  [0m[107;30m Bayern Munich, Germany     [0m
+[47;30m   6 [0m[47;30m    181 [0m[47;30m David Alaba               [0m[47;30m 30  [0m[47;30m Real Madrid                [0m
+[107;30m   7 [0m[107;30m    585 [0m[107;30m Hugo Lloris               [0m[107;30m 35  [0m[107;30m France                     [0m
+[47;30m   8 [0m[47;30m    587 [0m[47;30m Miralem Pjanic            [0m[47;30m 32  [0m[47;30m Barcelona                  [0m
+[107;30m   9 [0m[107;30m    726 [0m[107;30m Thiago Silva              [0m[107;30m 37  [0m[107;30m Chelsea                    [0m
+[47;30m  10 [0m[47;30m    823 [0m[47;30m Cristiano Ronaldo         [0m[47;30m 37  [0m[47;30m Manchester United          [0m
+[107;30m  11 [0m[107;30m    824 [0m[107;30m Karim Benzema             [0m[107;30m 34  [0m[107;30m France, Real Madrid        [0m
+[47;30m  12 [0m[47;30m    832 [0m[47;30m Marcos Alonso             [0m[47;30m 31  [0m[47;30m Chelsea, Spain             [0m
+[107;30m  13 [0m[107;30m    977 [0m[107;30m Sven Ulreich              [0m[107;30m 33  [0m[107;30m Bayern Munich              [0m
+[47;30m  14 [0m[47;30m   1187 [0m[47;30m Eric Choupo-Moting        [0m[47;30m 33  [0m[47;30m Bayern Munich              [0m
+[107;30m  15 [0m[107;30m   1231 [0m[107;30m Christian Eriksen         [0m[107;30m 30  [0m[107;30m Manchester United          [0m
+[47;30m  16 [0m[47;30m   1264 [0m[47;30m Manuel Neuer              [0m[47;30m 36  [0m[47;30m Bayern Munich, Germany     [0m
+[107;30m  17 [0m[107;30m   1266 [0m[107;30m Toni Kroos                [0m[107;30m 32  [0m[107;30m Real Madrid                [0m
+[47;30m  18 [0m[47;30m   1814 [0m[47;30m Luka Modric               [0m[47;30m 36  [0m[47;30m Real Madrid                [0m
+[107;30m  19 [0m[107;30m   1992 [0m[107;30m Robert Lewandowski        [0m[107;30m 33  [0m[107;30m Barcelona                  [0m
+[47;30m  20 [0m[47;30m   2046 [0m[47;30m Cesar Azpilicueta         [0m[47;30m 32  [0m[47;30m Chelsea, Spain             [0m
+[107;30m  21 [0m[107;30m   2908 [0m[107;30m Phil Jones                [0m[107;30m 30  [0m[107;30m Manchester United          [0m
+[47;30m  22 [0m[47;30m   3147 [0m[47;30m Kyle Walker               [0m[47;30m 32  [0m[47;30m England                    [0m
+[107;30m  23 [0m[107;30m   3148 [0m[107;30m Harry Kane                [0m[107;30m 29  [0m[107;30m England                    [0m
+[47;30m  24 [0m[47;30m   3256 [0m[47;30m Kevin Trapp               [0m[47;30m 32  [0m[47;30m Germany                    [0m
+[107;30m  25 [0m[107;30m   3347 [0m[107;30m Ilkay Gündogan            [0m[107;30m 31  [0m[107;30m Germany                    [0m
+[47;30m  26 [0m[47;30m   3643 [0m[47;30m Marco Reus                [0m[47;30m 33  [0m[47;30m Germany                    [0m
+[107;30m  27 [0m[107;30m   3652 [0m[107;30m Marc-André ter Stegen     [0m[107;30m 30  [0m[107;30m Barcelona                  [0m
+[47;30m  28 [0m[47;30m   3893 [0m[47;30m Antoine Griezmann         [0m[47;30m 31  [0m[47;30m France                     [0m
+[107;30m  29 [0m[107;30m   3975 [0m[107;30m Oliver Baumann            [0m[107;30m 32  [0m[107;30m Germany                    [0m
+[47;30m  30 [0m[47;30m   4049 [0m[47;30m Jordi Alba                [0m[47;30m 33  [0m[47;30m Barcelona, Spain           [0m
+[107;30m  31 [0m[107;30m   4859 [0m[107;30m Eden Hazard               [0m[107;30m 31  [0m[107;30m Real Madrid                [0m
+[47;30m  32 [0m[47;30m   4928 [0m[47;30m Pierre-Emerick Aubameyang [0m[47;30m 33  [0m[47;30m Barcelona                  [0m
+[107;30m  33 [0m[107;30m   5039 [0m[107;30m Alphonse Areola           [0m[107;30m 29  [0m[107;30m France                     [0m
+[47;30m  34 [0m[47;30m   5151 [0m[47;30m Wissam Ben Yedder         [0m[47;30m 31  [0m[47;30m France                     [0m
+[107;30m  35 [0m[107;30m   6232 [0m[107;30m Bernd Leno                [0m[107;30m 30  [0m[107;30m Arsenal                    [0m
+[47;30m  36 [0m[47;30m   6897 [0m[47;30m Granit Xhaka              [0m[47;30m 29  [0m[47;30m Arsenal                    [0m
+[107;30m  37 [0m[107;30m   9719 [0m[107;30m Thibaut Courtois          [0m[107;30m 30  [0m[107;30m Real Madrid                [0m
+[47;30m  38 [0m[47;30m  10723 [0m[47;30m Cedric Soares             [0m[47;30m 30  [0m[47;30m Arsenal                    [0m
+[107;30m  39 [0m[107;30m  11648 [0m[107;30m Tom Heaton                [0m[107;30m 36  [0m[107;30m Manchester United          [0m
+[47;30m  40 [0m[47;30m  12630 [0m[47;30m Sergi Roberto             [0m[47;30m 30  [0m[47;30m Barcelona                  [0m
+[107;30m  41 [0m[107;30m  12896 [0m[107;30m Kalidou Koulibaly         [0m[107;30m 31  [0m[107;30m Chelsea                    [0m
+[47;30m  42 [0m[47;30m  13193 [0m[47;30m Kieran Trippier           [0m[47;30m 31  [0m[47;30m England                    [0m
+[107;30m  43 [0m[107;30m  17093 [0m[107;30m Samuel Umtiti             [0m[107;30m 28  [0m[107;30m Barcelona                  [0m
+[47;30m  44 [0m[47;30m  18433 [0m[47;30m Mateo Kovacic             [0m[47;30m 28  [0m[47;30m Chelsea                    [0m
+[107;30m  45 [0m[107;30m  18467 [0m[107;30m Alvaro Morata             [0m[107;30m 29  [0m[107;30m Spain                      [0m
+[47;30m  46 [0m[47;30m  18468 [0m[47;30m Pablo Sarabia             [0m[47;30m 30  [0m[47;30m Spain                      [0m
+[107;30m  47 [0m[107;30m  18576 [0m[107;30m Neto                      [0m[107;30m 33  [0m[107;30m Barcelona                  [0m
+[47;30m  48 [0m[47;30m  18860 [0m[47;30m Conor Coady               [0m[47;30m 29  [0m[47;30m England                    [0m
+[107;30m  49 [0m[107;30m  19604 [0m[107;30m Nacho                     [0m[107;30m 32  [0m[107;30m Real Madrid                [0m
+[47;30m  50 [0m[47;30m  20775 [0m[47;30m Marcel Sabitzer           [0m[47;30m 28  [0m[47;30m Bayern Munich              [0m
+[107;30m  51 [0m[107;30m  20953 [0m[107;30m Antonio Rüdiger           [0m[107;30m 29  [0m[107;30m Germany, Real Madrid       [0m
+[47;30m  52 [0m[47;30m  22851 [0m[47;30m Michy Batshuayi           [0m[47;30m 28  [0m[47;30m Chelsea                    [0m
+[107;30m  53 [0m[107;30m  23772 [0m[107;30m Raphael Varane            [0m[107;30m 29  [0m[107;30m Manchester United          [0m
+[47;30m  54 [0m[47;30m  23845 [0m[47;30m Lucas Digne               [0m[47;30m 29  [0m[47;30m France                     [0m
+[107;30m  55 [0m[107;30m  24048 [0m[107;30m Memphis                   [0m[107;30m 28  [0m[107;30m Barcelona                  [0m
+[47;30m  56 [0m[47;30m  24218 [0m[47;30m Dani Carvajal             [0m[47;30m 30  [0m[47;30m Real Madrid, Spain         [0m
+[107;30m  57 [0m[107;30m  24411 [0m[107;30m Kepa Arrizabalaga         [0m[107;30m 27  [0m[107;30m Chelsea                    [0m
+[47;30m  58 [0m[47;30m  26157 [0m[47;30m Casemiro                  [0m[47;30m 30  [0m[47;30m Real Madrid                [0m
+[107;30m  59 [0m[107;30m  26312 [0m[107;30m Rúnar Rúnarsson           [0m[107;30m 27  [0m[107;30m Arsenal                    [0m
+[47;30m  60 [0m[47;30m  27491 [0m[47;30m Rahman Baba               [0m[47;30m 28  [0m[47;30m Chelsea                    [0m
+[107;30m  61 [0m[107;30m  27535 [0m[107;30m Jonas Hofmann             [0m[107;30m 30  [0m[107;30m Germany                    [0m
+[47;30m  62 [0m[47;30m  27733 [0m[47;30m Leon Goretzka             [0m[47;30m 27  [0m[47;30m Bayern Munich, Germany     [0m
+[107;30m  63 [0m[107;30m  28571 [0m[107;30m Sadio Mane                [0m[107;30m 30  [0m[107;30m Bayern Munich              [0m
+[47;30m  64 [0m[47;30m  28588 [0m[47;30m Inigo Martinez            [0m[47;30m 31  [0m[47;30m Spain                      [0m
+[107;30m  65 [0m[107;30m  28990 [0m[107;30m Raheem Sterling           [0m[107;30m 27  [0m[107;30m Chelsea, England           [0m
+[47;30m  66 [0m[47;30m  29186 [0m[47;30m John Stones               [0m[47;30m 28  [0m[47;30m England                    [0m
+[107;30m  67 [0m[107;30m  29274 [0m[107;30m Nick Pope                 [0m[107;30m 30  [0m[107;30m England                    [0m
+[47;30m  68 [0m[47;30m  29594 [0m[47;30m Lucas Vazquez             [0m[47;30m 31  [0m[47;30m Real Madrid                [0m
+[107;30m  69 [0m[107;30m  29600 [0m[107;30m Raúl de Tomás             [0m[107;30m 27  [0m[107;30m Spain                      [0m
+[47;30m  70 [0m[47;30m  29996 [0m[47;30m Jorginho                  [0m[47;30m 30  [0m[47;30m Chelsea                    [0m
+[107;30m  71 [0m[107;30m  31040 [0m[107;30m Adrien Rabiot             [0m[107;30m 27  [0m[107;30m France                     [0m
+[47;30m  72 [0m[47;30m  31118 [0m[47;30m N'Golo Kante              [0m[47;30m 31  [0m[47;30m Chelsea                    [0m
+[107;30m  73 [0m[107;30m  31130 [0m[107;30m Bouna Sarr                [0m[107;30m 30  [0m[107;30m Bayern Munich              [0m
+[47;30m  74 [0m[47;30m  31186 [0m[47;30m Jack Grealish             [0m[47;30m 26  [0m[47;30m England                    [0m
+[107;30m  75 [0m[107;30m  31192 [0m[107;30m Ross Barkley              [0m[107;30m 28  [0m[107;30m Chelsea                    [0m
+[47;30m  76 [0m[47;30m  31227 [0m[47;30m Luke Shaw                 [0m[47;30m 27  [0m[47;30m Manchester United          [0m
+[107;30m  77 [0m[107;30m  31232 [0m[107;30m James Ward-Prowse         [0m[107;30m 27  [0m[107;30m England                    [0m
+[47;30m  78 [0m[47;30m  32049 [0m[47;30m Harry Maguire             [0m[47;30m 29  [0m[47;30m England, Manchester United [0m
+[107;30m  79 [0m[107;30m  32331 [0m[107;30m Pablo Mari Villar         [0m[107;30m 28  [0m[107;30m Arsenal                    [0m
+[47;30m  80 [0m[47;30m  33051 [0m[47;30m Hakim Ziyech              [0m[47;30m 29  [0m[47;30m Chelsea                    [0m
+[107;30m  81 [0m[107;30m  33789 [0m[107;30m Martin Braithwaite        [0m[107;30m 31  [0m[107;30m Barcelona                  [0m
+[47;30m  82 [0m[47;30m  35354 [0m[47;30m Jordan Pickford           [0m[47;30m 28  [0m[47;30m England                    [0m
+[107;30m  83 [0m[107;30m  35993 [0m[107;30m Hector Bellerin           [0m[107;30m 27  [0m[107;30m Arsenal                    [0m
+[47;30m  84 [0m[47;30m  35994 [0m[47;30m Serge Gnabry              [0m[47;30m 27  [0m[47;30m Bayern Munich, Germany     [0m
+[107;30m  85 [0m[107;30m  38662 [0m[107;30m Marcus Bettinelli         [0m[107;30m 30  [0m[107;30m Chelsea                    [0m
+[47;30m  86 [0m[47;30m  39625 [0m[47;30m Bruno Fernandes           [0m[47;30m 27  [0m[47;30m Manchester United          [0m
+[107;30m  87 [0m[107;30m  39728 [0m[107;30m Anthony Martial           [0m[107;30m 26  [0m[107;30m Manchester United          [0m
+[47;30m  88 [0m[47;30m  40247 [0m[47;30m Diego Llorente            [0m[47;30m 28  [0m[47;30m Spain                      [0m
+[107;30m  89 [0m[107;30m  41788 [0m[107;30m Alex Telles               [0m[107;30m 29  [0m[107;30m Manchester United          [0m
+[47;30m  90 [0m[47;30m  42161 [0m[47;30m Elneny Mohamed            [0m[47;30m 30  [0m[47;30m Arsenal                    [0m
+[107;30m  91 [0m[107;30m  43151 [0m[107;30m Kingsley Coman            [0m[107;30m 26  [0m[107;30m Bayern Munich, France      [0m
+[47;30m  92 [0m[47;30m  44451 [0m[47;30m Fred                      [0m[47;30m 29  [0m[47;30m Manchester United          [0m
+[107;30m  93 [0m[107;30m  44582 [0m[107;30m Emerson                   [0m[107;30m 27  [0m[107;30m Chelsea                    [0m
+[47;30m  94 [0m[47;30m  48058 [0m[47;30m Andriy Lunin              [0m[47;30m 23  [0m[47;30m Real Madrid                [0m
+[107;30m  95 [0m[107;30m  48080 [0m[107;30m Niklas Süle               [0m[107;30m 26  [0m[107;30m Germany                    [0m
+[47;30m  96 [0m[47;30m  48225 [0m[47;30m Andreas Christensen       [0m[47;30m 26  [0m[47;30m Barcelona                  [0m
+[107;30m  97 [0m[107;30m  49610 [0m[107;30m Ruben Loftus-Cheek        [0m[107;30m 26  [0m[107;30m Chelsea                    [0m
+[47;30m  98 [0m[47;30m  49822 [0m[47;30m Matthew Miazga            [0m[47;30m 27  [0m[47;30m Chelsea                    [0m
+[107;30m  99 [0m[107;30m  50348 [0m[107;30m Jonathan Tah              [0m[107;30m 26  [0m[107;30m Germany                    [0m
+[47;30m 100 [0m[47;30m  50458 [0m[47;30m Timo Werner               [0m[47;30m 26  [0m[47;30m Chelsea, Germany           [0m
+[107;30m 101 [0m[107;30m  50793 [0m[107;30m Joshua Kimmich            [0m[107;30m 27  [0m[107;30m Bayern Munich, Germany     [0m
+[47;30m 102 [0m[47;30m  51794 [0m[47;30m Mike Maignan              [0m[47;30m 27  [0m[47;30m France                     [0m
+[107;30m 103 [0m[107;30m  52330 [0m[107;30m Robert Kenedy             [0m[107;30m 26  [0m[107;30m Chelsea                    [0m
+[47;30m 104 [0m[47;30m  52424 [0m[47;30m Thomas                    [0m[47;30m 29  [0m[47;30m Arsenal                    [0m
+[107;30m 105 [0m[107;30m  58940 [0m[107;30m Marco Asensio             [0m[107;30m 26  [0m[107;30m Real Madrid, Spain         [0m
+[47;30m 106 [0m[47;30m  60453 [0m[47;30m David Raya Martin         [0m[47;30m 26  [0m[47;30m Spain                      [0m
+[107;30m 107 [0m[107;30m  60479 [0m[107;30m Lucas Hernandez           [0m[107;30m 26  [0m[107;30m Bayern Munich              [0m
+[47;30m 108 [0m[47;30m  61853 [0m[47;30m Julian Brandt             [0m[47;30m 26  [0m[47;30m Germany                    [0m
+[107;30m 109 [0m[107;30m  62172 [0m[107;30m Mariano Diaz              [0m[107;30m 28  [0m[107;30m Real Madrid                [0m
+[47;30m 110 [0m[47;30m  63044 [0m[47;30m Jarrod Bowen              [0m[47;30m 25  [0m[47;30m England                    [0m
+[107;30m 111 [0m[107;30m  63319 [0m[107;30m Lukas Klostermann         [0m[107;30m 26  [0m[107;30m Germany                    [0m
+[47;30m 112 [0m[47;30m  63521 [0m[47;30m Leroy Sane                [0m[47;30m 26  [0m[47;30m Bayern Munich, Germany     [0m
+[107;30m 113 [0m[107;30m  63567 [0m[107;30m Dani Ceballos             [0m[107;30m 25  [0m[107;30m Real Madrid                [0m
+[47;30m 114 [0m[47;30m  63818 [0m[47;30m Martin Ødegaard           [0m[47;30m 23  [0m[47;30m Arsenal                    [0m
+[107;30m 115 [0m[107;30m  63998 [0m[107;30m Victor Lindelof           [0m[107;30m 28  [0m[107;30m Manchester United          [0m
+[47;30m 116 [0m[47;30m  68400 [0m[47;30m Marcos Llorente           [0m[47;30m 27  [0m[47;30m Spain                      [0m
+[107;30m 117 [0m[107;30m  70746 [0m[107;30m Presnel Kimpembe          [0m[107;30m 26  [0m[107;30m France                     [0m
+[47;30m 118 [0m[47;30m  81892 [0m[47;30m Jesus Vallejo             [0m[47;30m 25  [0m[47;30m Real Madrid                [0m
+[107;30m 119 [0m[107;30m  82919 [0m[107;30m Nicolas Pepe              [0m[107;30m 27  [0m[107;30m Arsenal                    [0m
+[47;30m 120 [0m[47;30m  90001 [0m[47;30m Eric Bailly               [0m[47;30m 28  [0m[47;30m Manchester United          [0m
+[107;30m 121 [0m[107;30m  94400 [0m[107;30m Lucas Torreira            [0m[107;30m 26  [0m[107;30m Arsenal                    [0m
+[47;30m 122 [0m[47;30m 102072 [0m[47;30m Thilo Kehrer              [0m[47;30m 25  [0m[47;30m Germany                    [0m
+[107;30m 123 [0m[107;30m 102098 [0m[107;30m Ainsley Maitland-Niles    [0m[107;30m 24  [0m[107;30m Arsenal                    [0m
+[47;30m 124 [0m[47;30m 107254 [0m[47;30m Kieran Tierney            [0m[47;30m 25  [0m[47;30m Arsenal                    [0m
+[107;30m 125 [0m[107;30m 107504 [0m[107;30m Kalvin Phillips           [0m[107;30m 26  [0m[107;30m England                    [0m
+[47;30m 126 [0m[47;30m 109266 [0m[47;30m Benjamin Pavard           [0m[47;30m 26  [0m[47;30m Bayern Munich, France      [0m
+[107;30m 127 [0m[107;30m 111111 [0m[107;30m Donny van de Beek         [0m[107;30m 25  [0m[107;30m Manchester United          [0m
+[47;30m 128 [0m[47;30m 114584 [0m[47;30m Dani Olmo                 [0m[47;30m 24  [0m[47;30m Spain                      [0m
+[107;30m 129 [0m[107;30m 120471 [0m[107;30m Gabriel Jesus             [0m[107;30m 25  [0m[107;30m Arsenal                    [0m
+[47;30m 130 [0m[47;30m 120836 [0m[47;30m Ferland Mendy             [0m[47;30m 27  [0m[47;30m Real Madrid                [0m
+[107;30m 131 [0m[107;30m 120851 [0m[107;30m Olexandr Zinchenko        [0m[107;30m 25  [0m[107;30m Arsenal                    [0m
+[47;30m 132 [0m[47;30m 122800 [0m[47;30m Rob Holding               [0m[47;30m 26  [0m[47;30m Arsenal                    [0m
+[107;30m 133 [0m[107;30m 125537 [0m[107;30m Franck Kessié             [0m[107;30m 25  [0m[107;30m Barcelona                  [0m
+[47;30m 134 [0m[47;30m 126968 [0m[47;30m Borja Mayoral             [0m[47;30m 25  [0m[47;30m Real Madrid                [0m
+[107;30m 135 [0m[107;30m 127795 [0m[107;30m Frenkie de Jong           [0m[107;30m 25  [0m[107;30m Barcelona                  [0m
+[47;30m 136 [0m[47;30m 131863 [0m[47;30m Unai Simon                [0m[47;30m 25  [0m[47;30m Spain                      [0m
+[107;30m 137 [0m[107;30m 133558 [0m[107;30m Benjamin Henrichs         [0m[107;30m 25  [0m[107;30m Germany                    [0m
+[47;30m 138 [0m[47;30m 136182 [0m[47;30m Christopher Nkunku        [0m[47;30m 24  [0m[47;30m France                     [0m
+[107;30m 139 [0m[107;30m 136193 [0m[107;30m Dayot Upamecano           [0m[107;30m 23  [0m[107;30m Bayern Munich              [0m
+[47;30m 140 [0m[47;30m 145534 [0m[47;30m Benjamin Chilwell         [0m[47;30m 25  [0m[47;30m Chelsea                    [0m
+[107;30m 141 [0m[107;30m 165454 [0m[107;30m Christian Pulisic         [0m[107;30m 23  [0m[107;30m Chelsea                    [0m
+[47;30m 142 [0m[47;30m 167741 [0m[47;30m Ousmane Dembélé           [0m[47;30m 25  [0m[47;30m Barcelona                  [0m
+[107;30m 143 [0m[107;30m 168738 [0m[107;30m Eder Militão              [0m[107;30m 24  [0m[107;30m Real Madrid                [0m
+[47;30m 144 [0m[47;30m 170135 [0m[47;30m Axel Tuanzebe             [0m[47;30m 24  [0m[47;30m Manchester United          [0m
+[107;30m 145 [0m[107;30m 172006 [0m[107;30m Marcus Rashford           [0m[107;30m 24  [0m[107;30m Manchester United          [0m
+[47;30m 146 [0m[47;30m 172081 [0m[47;30m Raphinha                  [0m[47;30m 25  [0m[47;30m Barcelona                  [0m
+[107;30m 147 [0m[107;30m 172496 [0m[107;30m Kylian Mbappe             [0m[107;30m 23  [0m[107;30m France                     [0m
+[47;30m 148 [0m[47;30m 172675 [0m[47;30m Trevoh Chalobah           [0m[47;30m 23  [0m[47;30m Chelsea                    [0m
+[107;30m 149 [0m[107;30m 172882 [0m[107;30m Jules Koundé              [0m[107;30m 23  [0m[107;30m France                     [0m
+[47;30m 150 [0m[47;30m 173112 [0m[47;30m Rodri                     [0m[47;30m 26  [0m[47;30m Spain                      [0m
+[107;30m 151 [0m[107;30m 173172 [0m[107;30m James Justin              [0m[107;30m 24  [0m[107;30m England                    [0m
+[47;30m 152 [0m[47;30m 173728 [0m[47;30m Jonathan Clauss           [0m[47;30m 29  [0m[47;30m France                     [0m
+[107;30m 153 [0m[107;30m 176214 [0m[107;30m Theo Hernandez            [0m[107;30m 24  [0m[107;30m France                     [0m
+[47;30m 154 [0m[47;30m 176421 [0m[47;30m Lisandro Martínez         [0m[47;30m 24  [0m[47;30m Manchester United          [0m
+[107;30m 155 [0m[107;30m 176958 [0m[107;30m Federico Valverde         [0m[107;30m 24  [0m[107;30m Real Madrid                [0m
+[47;30m 156 [0m[47;30m 177001 [0m[47;30m Takehiro Tomiyasu         [0m[47;30m 23  [0m[47;30m Arsenal                    [0m
+[107;30m 157 [0m[107;30m 178378 [0m[107;30m Matt Turner               [0m[107;30m 28  [0m[107;30m Arsenal                    [0m
+[47;30m 158 [0m[47;30m 178914 [0m[47;30m Carlos Soler              [0m[47;30m 25  [0m[47;30m Spain                      [0m
+[107;30m 159 [0m[107;30m 179564 [0m[107;30m Mason Mount               [0m[107;30m 23  [0m[107;30m Chelsea, England           [0m
+[47;30m 160 [0m[47;30m 181340 [0m[47;30m Alvaro Odriozola          [0m[47;30m 26  [0m[47;30m Real Madrid                [0m
+[107;30m 161 [0m[107;30m 181420 [0m[107;30m Tammy Abraham             [0m[107;30m 24  [0m[107;30m England                    [0m
+[47;30m 162 [0m[47;30m 181421 [0m[47;30m Fikayo Tomori             [0m[47;30m 24  [0m[47;30m England                    [0m
+[107;30m 163 [0m[107;30m 184048 [0m[107;30m Édouard Mendy             [0m[107;30m 30  [0m[107;30m Chelsea                    [0m
+[47;30m 164 [0m[47;30m 184775 [0m[47;30m Ben White                 [0m[47;30m 24  [0m[47;30m Arsenal                    [0m
+[107;30m 165 [0m[107;30m 185217 [0m[107;30m Noussair Mazraoui         [0m[107;30m 24  [0m[107;30m Bayern Munich              [0m
+[47;30m 166 [0m[47;30m 185328 [0m[47;30m Ethan Ampadu              [0m[47;30m 21  [0m[47;30m Chelsea                    [0m
+[107;30m 167 [0m[107;30m 185873 [0m[107;30m Matthijs de Ligt          [0m[107;30m 22  [0m[107;30m Bayern Munich              [0m
+[47;30m 168 [0m[47;30m 187763 [0m[47;30m Malang Sarr               [0m[47;30m 23  [0m[47;30m Chelsea                    [0m
+[107;30m 169 [0m[107;30m 187964 [0m[107;30m Aaron Ramsdale            [0m[107;30m 24  [0m[107;30m Arsenal, England           [0m
+[47;30m 170 [0m[47;30m 187991 [0m[47;30m Trent Alexander-Arnold    [0m[47;30m 23  [0m[47;30m England                    [0m
+[107;30m 171 [0m[107;30m 189526 [0m[107;30m Alphonso Davies           [0m[107;30m 21  [0m[107;30m Bayern Munich              [0m
+[47;30m 172 [0m[47;30m 192324 [0m[47;30m Kai Havertz               [0m[47;30m 23  [0m[47;30m Chelsea, Germany           [0m
+[107;30m 173 [0m[107;30m 193820 [0m[107;30m Matteo Guendouzi          [0m[107;30m 23  [0m[107;30m France                     [0m
+[47;30m 174 [0m[47;30m 194121 [0m[47;30m David Raum                [0m[47;30m 24  [0m[47;30m Germany                    [0m
+[107;30m 175 [0m[107;30m 194662 [0m[107;30m Tahith Chong              [0m[107;30m 22  [0m[107;30m Manchester United          [0m
+[47;30m 176 [0m[47;30m 195848 [0m[47;30m Aurélien Tchouaméni       [0m[47;30m 22  [0m[47;30m France, Real Madrid        [0m
+[107;30m 177 [0m[107;30m 198803 [0m[107;30m Philip Foden              [0m[107;30m 22  [0m[107;30m England                    [0m
+[47;30m 178 [0m[47;30m 199018 [0m[47;30m Boubacar Kamara           [0m[47;30m 22  [0m[47;30m France                     [0m
+[107;30m 179 [0m[107;30m 199076 [0m[107;30m Aaron Wan-Bissaka         [0m[107;30m 24  [0m[107;30m Manchester United          [0m
+[47;30m 180 [0m[47;30m 199280 [0m[47;30m Pau Torres                [0m[47;30m 25  [0m[47;30m Spain                      [0m
+[107;30m 181 [0m[107;30m 199615 [0m[107;30m Declan Rice               [0m[107;30m 23  [0m[107;30m England                    [0m
+[47;30m 182 [0m[47;30m 200826 [0m[47;30m Ibrahima Konaté           [0m[47;30m 23  [0m[47;30m France                     [0m
+[107;30m 183 [0m[107;30m 200932 [0m[107;30m Jadon Sancho              [0m[107;30m 22  [0m[107;30m Manchester United          [0m
+[47;30m 184 [0m[47;30m 200933 [0m[47;30m Callum Hudson-Odoi        [0m[47;30m 21  [0m[47;30m Chelsea                    [0m
+[107;30m 185 [0m[107;30m 201900 [0m[107;30m Vinicius Junior           [0m[107;30m 22  [0m[107;30m Real Madrid                [0m
+[47;30m 186 [0m[47;30m 201935 [0m[47;30m Lukas Nmecha              [0m[47;30m 23  [0m[47;30m Germany                    [0m
+[107;30m 187 [0m[107;30m 202228 [0m[107;30m Gabriel                   [0m[107;30m 24  [0m[107;30m Arsenal                    [0m
+[47;30m 188 [0m[47;30m 205803 [0m[47;30m Nathan Bishop             [0m[47;30m 22  [0m[47;30m Manchester United          [0m
+[107;30m 189 [0m[107;30m 207746 [0m[107;30m Scott McTominay           [0m[107;30m 25  [0m[107;30m Manchester United          [0m
+[47;30m 190 [0m[47;30m 214635 [0m[47;30m Adrian Fein               [0m[47;30m 23  [0m[47;30m Bayern Munich              [0m
+[107;30m 191 [0m[107;30m 215864 [0m[107;30m Tyrell Malacia            [0m[107;30m 22  [0m[107;30m Manchester United          [0m
+[47;30m 192 [0m[47;30m 215904 [0m[47;30m Reiss Nelson              [0m[47;30m 22  [0m[47;30m Arsenal                    [0m
+[107;30m 193 [0m[107;30m 215905 [0m[107;30m Edward Nketiah            [0m[107;30m 23  [0m[107;30m Arsenal                    [0m
+[47;30m 194 [0m[47;30m 217891 [0m[47;30m Anton Stach               [0m[47;30m 23  [0m[47;30m Germany                    [0m
+[107;30m 195 [0m[107;30m 218631 [0m[107;30m Reece James               [0m[107;30m 22  [0m[107;30m Chelsea, England           [0m
+[47;30m 196 [0m[47;30m 219626 [0m[47;30m Diogo Dalot               [0m[47;30m 23  [0m[47;30m Manchester United          [0m
+[107;30m 197 [0m[107;30m 225822 [0m[107;30m Arnau Tenas               [0m[107;30m 21  [0m[107;30m Barcelona                  [0m
+[47;30m 198 [0m[47;30m 227453 [0m[47;30m Marc Guéhi                [0m[47;30m 22  [0m[47;30m England                    [0m
+[107;30m 199 [0m[107;30m 227454 [0m[107;30m Conor Gallagher           [0m[107;30m 22  [0m[107;30m Chelsea, England           [0m
+[47;30m 200 [0m[47;30m 230488 [0m[47;30m Moussa Diaby              [0m[47;30m 23  [0m[47;30m France                     [0m
+[107;30m 201 [0m[107;30m 237526 [0m[107;30m Albert Lokonga            [0m[107;30m 22  [0m[107;30m Arsenal                    [0m
+[47;30m 202 [0m[47;30m 238648 [0m[47;30m Ferran Torres             [0m[47;30m 22  [0m[47;30m Barcelona, Spain           [0m
+[107;30m 203 [0m[107;30m 244490 [0m[107;30m Rodrygo                   [0m[107;30m 21  [0m[107;30m Real Madrid                [0m
+[47;30m 204 [0m[47;30m 246261 [0m[47;30m Gabriel Martinelli        [0m[47;30m 21  [0m[47;30m Arsenal                    [0m
+[107;30m 205 [0m[107;30m 249696 [0m[107;30m Ricard Puig               [0m[107;30m 22  [0m[107;30m Barcelona                  [0m
+[47;30m 206 [0m[47;30m 250203 [0m[47;30m Ronald Araujo             [0m[47;30m 23  [0m[47;30m Barcelona                  [0m
+[107;30m 207 [0m[107;30m 250700 [0m[107;30m Sergiño Dest              [0m[107;30m 21  [0m[107;30m Barcelona                  [0m
+[47;30m 208 [0m[47;30m 253241 [0m[47;30m Álex Collado              [0m[47;30m 23  [0m[47;30m Barcelona                  [0m
+[107;30m 209 [0m[107;30m 254656 [0m[107;30m Chris Richards            [0m[107;30m 22  [0m[107;30m Bayern Munich              [0m
+[47;30m 210 [0m[47;30m 257474 [0m[47;30m James Garner              [0m[47;30m 21  [0m[47;30m Manchester United          [0m
+[107;30m 211 [0m[107;30m 257475 [0m[107;30m Ethan Laird               [0m[107;30m 20  [0m[107;30m Manchester United          [0m
+[47;30m 212 [0m[47;30m 257485 [0m[47;30m Bukayo Saka               [0m[47;30m 20  [0m[47;30m Arsenal, England           [0m
+[107;30m 213 [0m[107;30m 257487 [0m[107;30m Folarin Balogun           [0m[107;30m 21  [0m[107;30m Arsenal                    [0m
+[47;30m 214 [0m[47;30m 258501 [0m[47;30m William Saliba            [0m[47;30m 21  [0m[47;30m Arsenal, France            [0m
+[107;30m 215 [0m[107;30m 259559 [0m[107;30m Robert Sanchez            [0m[107;30m 24  [0m[107;30m Spain                      [0m
+[47;30m 216 [0m[47;30m 260384 [0m[47;30m Ryan Gravenberch          [0m[47;30m 20  [0m[47;30m Bayern Munich              [0m
+[107;30m 217 [0m[107;30m 260959 [0m[107;30m Karim Adeyemi             [0m[107;30m 20  [0m[107;30m Germany                    [0m
+[47;30m 218 [0m[47;30m 262551 [0m[47;30m Emile Smith-Rowe          [0m[47;30m 21  [0m[47;30m Arsenal                    [0m
+[107;30m 219 [0m[107;30m 263348 [0m[107;30m Eric                      [0m[107;30m 21  [0m[107;30m Barcelona, Spain           [0m
+[47;30m 220 [0m[47;30m 263533 [0m[47;30m Josip Stanišić            [0m[47;30m 22  [0m[47;30m Bayern Munich              [0m
+[107;30m 221 [0m[107;30m 263539 [0m[107;30m Joshua Zirkzee            [0m[107;30m 21  [0m[107;30m Bayern Munich              [0m
+[47;30m 222 [0m[47;30m 264461 [0m[47;30m Óscar Mingueza            [0m[47;30m 23  [0m[47;30m Barcelona                  [0m
+[107;30m 223 [0m[107;30m 271195 [0m[107;30m Billy Gilmour             [0m[107;30m 21  [0m[107;30m Chelsea                    [0m
+[47;30m 224 [0m[47;30m 271651 [0m[47;30m Eduardo Camavinga         [0m[47;30m 19  [0m[47;30m Real Madrid                [0m
+[107;30m 225 [0m[107;30m 275839 [0m[107;30m Iñaki Peña                [0m[107;30m 23  [0m[107;30m Barcelona                  [0m
+[47;30m 226 [0m[47;30m 276100 [0m[47;30m Lucas Cañizares           [0m[47;30m 20  [0m[47;30m Real Madrid                [0m
+[107;30m 227 [0m[107;30m 276130 [0m[107;30m Nico                      [0m[107;30m 20  [0m[107;30m Barcelona                  [0m
+[47;30m 228 [0m[47;30m 277108 [0m[47;30m Tanguy Nianzou            [0m[47;30m 20  [0m[47;30m Bayern Munich              [0m
+[107;30m 229 [0m[107;30m 281304 [0m[107;30m Nuno Tavares              [0m[107;30m 22  [0m[107;30m Arsenal                    [0m
+[47;30m 230 [0m[47;30m 285577 [0m[47;30m Nico Schlotterbeck        [0m[47;30m 22  [0m[47;30m Germany                    [0m
+[107;30m 231 [0m[107;30m 297852 [0m[107;30m Facundo Pellistri         [0m[107;30m 20  [0m[107;30m Manchester United          [0m
+[47;30m 232 [0m[47;30m 302444 [0m[47;30m Matej Kovář               [0m[47;30m 22  [0m[47;30m Manchester United          [0m
+[107;30m 233 [0m[107;30m 308885 [0m[107;30m Fábio Vieira              [0m[107;30m 22  [0m[107;30m Arsenal                    [0m
+[47;30m 234 [0m[47;30m 310607 [0m[47;30m Reinier                   [0m[47;30m 20  [0m[47;30m Real Madrid                [0m
+[107;30m 235 [0m[107;30m 312998 [0m[107;30m Ansu Fati                 [0m[107;30m 19  [0m[107;30m Barcelona, Spain           [0m
+[47;30m 236 [0m[47;30m 313236 [0m[47;30m Teden Mengi               [0m[47;30m 20  [0m[47;30m Manchester United          [0m
+[107;30m 237 [0m[107;30m 343087 [0m[107;30m Jude Bellingham           [0m[107;30m 19  [0m[107;30m England                    [0m
+[47;30m 238 [0m[47;30m 346431 [0m[47;30m Arthur Okonkwo            [0m[47;30m 20  [0m[47;30m Arsenal                    [0m
+[107;30m 239 [0m[107;30m 346432 [0m[107;30m Matthew Smith             [0m[107;30m 21  [0m[107;30m Arsenal                    [0m
+[47;30m 240 [0m[47;30m 346479 [0m[47;30m Brandon Williams          [0m[47;30m 21  [0m[47;30m Manchester United          [0m
+[107;30m 241 [0m[107;30m 346656 [0m[107;30m Armando Broja             [0m[107;30m 20  [0m[107;30m Chelsea                    [0m
+[47;30m 242 [0m[47;30m 348883 [0m[47;30m Pedri                     [0m[47;30m 19  [0m[47;30m Barcelona                  [0m
+[107;30m 243 [0m[107;30m 352571 [0m[107;30m Latasa                    [0m[107;30m 21  [0m[107;30m Real Madrid                [0m
+[47;30m 244 [0m[47;30m 354521 [0m[47;30m Luis López                [0m[47;30m 21  [0m[47;30m Real Madrid                [0m
+[107;30m 245 [0m[107;30m 358845 [0m[107;30m Levi Colwill              [0m[107;30m 19  [0m[107;30m Chelsea                    [0m
+[47;30m 246 [0m[47;30m 360365 [0m[47;30m Anthony Elanga            [0m[47;30m 20  [0m[47;30m Manchester United          [0m
+[107;30m 247 [0m[107;30m 360367 [0m[107;30m William Fish              [0m[107;30m 19  [0m[107;30m Manchester United          [0m
+[47;30m 248 [0m[47;30m 367653 [0m[47;30m Alejandro Baldé           [0m[47;30m 18  [0m[47;30m Barcelona                  [0m
+[107;30m 249 [0m[107;30m 370085 [0m[107;30m Amad Diallo               [0m[107;30m 20  [0m[107;30m Manchester United          [0m
+[47;30m 250 [0m[47;30m 370274 [0m[47;30m Harvey Vale               [0m[47;30m 18  [0m[47;30m Chelsea                    [0m
+[107;30m 251 [0m[107;30m 370762 [0m[107;30m Hannibal Mejbri           [0m[107;30m 19  [0m[107;30m Manchester United          [0m
+[47;30m 252 [0m[47;30m 373381 [0m[47;30m Alejandro Garnacho        [0m[47;30m 18  [0m[47;30m Manchester United          [0m
+[107;30m 253 [0m[107;30m 375479 [0m[107;30m Abdessamad Ezzalzouli     [0m[107;30m 20  [0m[107;30m Barcelona                  [0m
+[47;30m 254 [0m[47;30m 376739 [0m[47;30m Teddy Sharman-Lowe        [0m[47;30m 19  [0m[47;30m Chelsea                    [0m
+[107;30m 255 [0m[107;30m 376844 [0m[107;30m Jamal Musiala             [0m[107;30m 19  [0m[107;30m Bayern Munich, Germany     [0m
+[47;30m 256 [0m[47;30m 377407 [0m[47;30m Marc Casadó               [0m[47;30m 18  [0m[47;30m Barcelona                  [0m
+[107;30m 257 [0m[107;30m 387980 [0m[107;30m Arnau Casas               [0m[107;30m 18  [0m[107;30m Barcelona                  [0m
+[47;30m 258 [0m[47;30m 387991 [0m[47;30m Gavi                      [0m[47;30m 17  [0m[47;30m Barcelona, Spain           [0m
+[107;30m 259 [0m[107;30m 394416 [0m[107;30m Pablo Torre               [0m[107;30m 19  [0m[107;30m Barcelona                  [0m
+[47;30m 260 [0m[47;30m 398386 [0m[47;30m Mathys Tel                [0m[47;30m 17  [0m[47;30m Bayern Munich              [0m
+[107;30m 261 [0m[107;30m 405287 [0m[107;30m Gabriel Vidović           [0m[107;30m 18  [0m[107;30m Bayern Munich              [0m
+[47;30m 262 [0m[47;30m 405757 [0m[47;30m Vinícius Tobías           [0m[47;30m 18  [0m[47;30m Real Madrid                [0m
+[107;30m 263 [0m[107;30m 430943 [0m[107;30m Marquinhos                [0m[107;30m 19  [0m[107;30m Arsenal                    [0m
+[47;30m 264 [0m[47;30m 444840 [0m[47;30m Paul Wanner               [0m[47;30m 16  [0m[47;30m Bayern Munich              [0m
+[107;30m 265 [0m[107;30m 449691 [0m[107;30m Charlie Savage            [0m[107;30m 19  [0m[107;30m Manchester United          [0m
+[47;30m 266 [0m[47;30m 449693 [0m[47;30m Zidane Iqbal              [0m[47;30m 19  [0m[47;30m Manchester United          [0m
+[107;30m 267 [0m[107;30m 452466 [0m[107;30m Reuell Walters            [0m[107;30m 17  [0m[107;30m Arsenal                    [0m
